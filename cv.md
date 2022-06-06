@@ -1,4 +1,5 @@
-CV title
-Name
-DoB
-work experience
+# Tatsiana Krauchanka
+## Jr. Business Analyst
+### email: tatsiana.krauchanka@gmail.com
+### discord: Tatsiana-Kr
+
