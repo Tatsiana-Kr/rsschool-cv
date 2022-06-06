@@ -1,5 +1,4 @@
 # Tatsiana Krauchanka
 ## Jr. Business Analyst
 ### email: tatsiana.krauchanka@gmail.com
-### discord: Tatsiana-Kr
-
+### discord: Tatsiana#2136
