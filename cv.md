@@ -1,4 +1,4 @@
-cv title
-name surname
-date of birth
+CV title
+Name
+DoB
 work experience
