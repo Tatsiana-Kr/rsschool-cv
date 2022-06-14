@@ -40,7 +40,7 @@
   }
   
   .nav-link:hover {
-    color: #1f0303;
+    color: #113c17;
   }
 
   .main-container {
@@ -50,6 +50,7 @@
   
   .section {
     width: 50%;
+    padding: 50 px;
   }
 
   @media (max-width: 768px) {
@@ -60,21 +61,49 @@
 
   body {
     font-family: 'Nanum Gothic', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     color: #4d2323;
   }
 
   .section-title {
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #0b4513;
   }
 
   .round {
-    border-radius: 70px;
+    border-radius: 20px;
     box-shadow: 0 0 0 3px #4d2323, 0 0 13px #333;
+    height: 150px;
+    width: 170px;
+    margin: 30px;
+  }
+  
+  .logo {
+      width: 150px;
+      height: 100px;
+      float: right
+  }
+
+  .year {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+  }
+
+  #profile {
+      text-align: center;
+  }
+
+  header {
+      background-color: #021c06;
+  }
+
+  footer {
+      background-color: #021c06;
   }
